@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+    <defs>
+        <style>.cls-1,.cls-2{fill:none;}.cls-2{stroke:#1f4ce0;stroke-miterlimit:10;stroke-width:1.5px;}.cls-3{fill:url(#New_Pattern_7);}</style>
+        <pattern id="New_Pattern_7" data-name="New Pattern 7" width="20" height="20" patternTransform="translate(10) rotate(45)" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+            <rect class="cls-1" width="100" height="100"/>
+            <!-- Rotated lines -->
+            <line class="cls-2" y1="10" x2="100" y2="10"/>
+            <line class="cls-2" y1="30" x2="100" y2="30"/>
+            <line class="cls-2" y1="50" x2="100" y2="50"/>
+            <line class="cls-2" y1="70" x2="100" y2="70"/>
+            <line class="cls-2" y1="90" x2="100" y2="90"/>
+        </pattern>
+    </defs>
+    <title>Asset 3</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <rect class="cls-3" width="100" height="100"/>
+        </g>
+    </g>
+</svg>
