@@ -7,8 +7,7 @@
             <line class="cls-2" x1="10" y1="0" x2="10" y2="100"/>
             <line class="cls-2" x1="30" y1="0" x2="30" y2="100"/>
             <line class="cls-2" x1="50" y1="0" x2="50" y2="100"/>
-            <line class="cls-2" x1="70" y1="0" x2="70" y2="100"/>
-            <line class="cls-2" x1="90" y1="0" x2="90" y2="100"/>
+            
         </pattern>
     </defs>
     <title>Asset 3</title>
