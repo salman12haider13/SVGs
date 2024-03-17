@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
     <defs>
-        <style>.cls-1,.cls-2{fill:none;}.cls-2{stroke:#78787a;stroke-miterlimit:10;stroke-width:3px;}.cls-3{fill:url(#New_Pattern_7);}</style>
+        <style>.cls-1,.cls-2{fill:none;}.cls-2{stroke:#78787a;stroke-miterlimit:10;stroke-width:10px;}.cls-3{fill:url(#New_Pattern_7);}</style>
         <pattern id="New_Pattern_7" data-name="New Pattern 7" width="20" height="20" patternTransform="translate(0) rotate(0)" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
             <rect class="cls-1" width="100" height="100"/>
             <!-- Vertically oriented lines -->
