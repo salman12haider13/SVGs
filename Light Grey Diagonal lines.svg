@@ -3,7 +3,7 @@
     <style>
       .cls-1,.cls-3{fill:none;}
       .cls-2{clip-path:url(#clip-path);}
-      .cls-3{stroke:#bbbbbd;stroke-miterlimit:10;stroke-width:2px;}
+      .cls-3{stroke:#BE90D4;stroke-miterlimit:10;stroke-width:2px;}
       .cls-4{fill:url(#_19-2_red_diagonal);}
     </style>
     <clipPath id="clip-path">
